@@ -6,7 +6,7 @@ Use square brackets `[]`, then the expression you want, then `for`, then the var
 ```py
 names = ['Justin', 'Helen', 'Anne']
 lower_names = [name.lower() for name in names]
-lower_names  #> ['Justin', 'helen', 'anne']
+lower_names  #> ['justin', 'helen', 'anne']
 ```
 
 I think it's easier to always write them from back to front:
